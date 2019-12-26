@@ -253,23 +253,23 @@ section .heading h2{
 
 
 /* PORTFOLIO */
-#portfolio{
+#collaborations{
     background: #4169E1;
 }
-#portfolio .heading h2{
+#collaborations .heading h2{
     color: #fff;
 }
-#portfolio img{
+#collaborations img{
     width: 100%;
     height: 100%;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%); 
 }
-#portfolio img:hover{
+#collaborations img:hover{
      filter: none;
     -webkit-filter: none; 
 }
-#portfolio .col-md-4{
+#collaborations .col-md-4{
     margin-bottom: 20px;
 }
 
